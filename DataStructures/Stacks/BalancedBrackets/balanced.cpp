@@ -96,6 +96,5 @@ string rtrim(const string &str) {
         find_if(s.rbegin(), s.rend(), not1(ptr_fun<int, int>(isspace))).base(),
         s.end()
     );
-
     return s;
 }
