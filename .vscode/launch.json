@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/DSA_Hacker_Rank/DataStructures/Arrays/HourGlass_2DArray",
-      "program": "d:/DSA_Hacker_Rank/DataStructures/Arrays/HourGlass_2DArray/build/Debug/outDebug",
+      "cwd": "d:/DSA_Hacker_Rank/DataStructures/Stacks/Gameoftwostacks(good)",
+      "program": "d:/DSA_Hacker_Rank/DataStructures/Stacks/Gameoftwostacks(good)/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
