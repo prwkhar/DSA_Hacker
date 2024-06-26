@@ -1,0 +1,1 @@
+easy code just basic implementation
