@@ -1,0 +1,1 @@
+max function takes little more time than using if and else
