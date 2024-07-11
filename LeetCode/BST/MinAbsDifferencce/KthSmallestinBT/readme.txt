@@ -1,0 +1,1 @@
+easy question with one concept that inorder traversal give the sorted array
