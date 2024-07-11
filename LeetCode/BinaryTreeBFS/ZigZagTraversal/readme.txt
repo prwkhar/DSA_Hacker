@@ -1,0 +1,1 @@
+same as level order traversal just use one flag variable to store the level
