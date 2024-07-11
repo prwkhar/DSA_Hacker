@@ -1,0 +1,1 @@
+we have to use level order traversal and count then return the count simple
